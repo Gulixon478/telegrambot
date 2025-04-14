@@ -1,0 +1,6 @@
+2025-04-11 15:32:54,599 - aiogram.dispatcher - INFO - Start polling 
+2025-04-11 15:32:54,714 - aiogram.dispatcher - INFO - Run polling for bot @diamond_223_bot id=7516113813 - 'diamond_223' 
+2025-04-11 15:33:02,321 - aiogram.event - INFO - Update id=162075432 is handled. Duration 531 ms by bot id=7516113813 
+2025-04-11 15:33:03,904 - aiogram.event - INFO - Update id=162075433 is handled. Duration 516 ms by bot id=7516113813 
+2025-04-11 15:52:09,257 - aiogram.dispatcher - INFO - Polling stopped 
+2025-04-11 15:52:09,831 - aiogram.dispatcher - INFO - Polling stopped for bot @diamond_223_bot id=7516113813 - 'diamond_223' 
