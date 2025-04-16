@@ -4,3 +4,27 @@
 2025-04-11 15:33:03,904 - aiogram.event - INFO - Update id=162075433 is handled. Duration 516 ms by bot id=7516113813 
 2025-04-11 15:52:09,257 - aiogram.dispatcher - INFO - Polling stopped 
 2025-04-11 15:52:09,831 - aiogram.dispatcher - INFO - Polling stopped for bot @diamond_223_bot id=7516113813 - 'diamond_223' 
+2025-04-14 16:08:41,865 - aiogram.dispatcher - INFO - Start polling
+2025-04-14 16:08:41,984 - aiogram.dispatcher - INFO - Run polling for bot @diamond_223_bot id=7516113813 - 'diamond_223'
+2025-04-14 16:08:48,741 - aiogram.event - INFO - Update id=162075434 is handled. Duration 561 ms by bot id=7516113813
+2025-04-14 16:08:52,000 - aiogram.event - INFO - Update id=162075435 is handled. Duration 375 ms by bot id=7516113813
+2025-04-14 16:08:54,392 - aiogram.event - INFO - Update id=162075436 is handled. Duration 484 ms by bot id=7516113813
+2025-04-14 16:08:55,864 - aiogram.event - INFO - Update id=162075437 is handled. Duration 280 ms by bot id=7516113813
+2025-04-14 16:08:58,173 - aiogram.event - INFO - Update id=162075438 is handled. Duration 547 ms by bot id=7516113813
+2025-04-14 16:16:42,338 - aiogram.dispatcher - INFO - Polling stopped
+2025-04-14 16:16:42,730 - aiogram.dispatcher - INFO - Polling stopped for bot @diamond_223_bot id=7516113813 - 'diamond_223'
+2025-04-14 16:16:48,117 - aiogram.dispatcher - INFO - Start polling
+2025-04-14 16:16:48,240 - aiogram.dispatcher - INFO - Run polling for bot @diamond_223_bot id=7516113813 - 'diamond_223'
+2025-04-14 16:16:52,708 - aiogram.event - INFO - Update id=162075439 is handled. Duration 655 ms by bot id=7516113813
+2025-04-14 16:16:54,453 - aiogram.event - INFO - Update id=162075440 is handled. Duration 516 ms by bot id=7516113813
+2025-04-14 16:23:48,845 - aiogram.dispatcher - INFO - Polling stopped
+2025-04-14 16:23:49,379 - aiogram.dispatcher - INFO - Polling stopped for bot @diamond_223_bot id=7516113813 - 'diamond_223'
+2025-04-15 16:28:59,363 - aiogram.dispatcher - INFO - Start polling
+2025-04-15 16:28:59,482 - aiogram.dispatcher - INFO - Run polling for bot @diamond_223_bot id=7516113813 - 'diamond_223'
+2025-04-15 16:29:04,244 - aiogram.event - INFO - Update id=162075441 is handled. Duration 530 ms by bot id=7516113813
+2025-04-15 16:29:09,204 - aiogram.event - INFO - Update id=162075442 is handled. Duration 329 ms by bot id=7516113813
+2025-04-16 15:53:57,993 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2025-04-16 15:53:58,025 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7516113813)
+2025-04-16 15:54:09,422 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 7516113813)
+2025-04-16 16:10:20,842 - aiogram.dispatcher - INFO - Polling stopped
+2025-04-16 16:10:21,733 - aiogram.dispatcher - INFO - Polling stopped for bot @diamond_223_bot id=7516113813 - 'diamond_223'
